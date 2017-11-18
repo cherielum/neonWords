@@ -16,8 +16,8 @@ body p{
 body p i{
   transition: .5s;
 }
-.fa-codepen{
-   -webkit-animation: fade 3s infinite alternate;
+.fa-heart{
+  -webkit-animation: fade 3s infinite alternate;
   -moz-animation: fade 3s infinite alternate;
   -o-animation: fade 3s infinite alternate;
   animation: fade 3s infinite alternate;
